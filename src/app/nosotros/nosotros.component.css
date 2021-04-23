@@ -32,3 +32,14 @@ button {
 .titulos-nosotros{
     font-weight: bold;
 }
+
+.titulo-usuarios-comentan{
+    font-weight: bold;
+    color: black;
+    font-family: sans-serif;
+}
+
+.frase{
+    font-size: 25px;
+    text-align: center;
+}
